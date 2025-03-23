@@ -48,3 +48,17 @@ Retrieval Augmentation Generation(RAG)(检索，增强，生成)
 
 > https://github.com/gorilla-llm/gorilla-cli
 
+
+### Prompt Engineering for CyberSecurity
+
+## Securing AI implementations
+
+> mitre atlas framework
+
+> https://atlas.mitre.org/
+
+> https://attack.mitre.org/
+
+
+
+
