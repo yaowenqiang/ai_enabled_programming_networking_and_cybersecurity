@@ -31,7 +31,7 @@ Retrieval Augmentation Generation(RAG)(检索，增强，生成)
 
 
 
-Vector Databases
+## Vector Databases
 
 + pgvector
 + Chroma
@@ -40,4 +40,11 @@ Vector Databases
 + Faiss
 + Atlas Vector Search
 
+> https://projector.tensorflow.org/
+
+## Semantic Search
+
+## Using AI For CyberSecurity
+
+> https://github.com/gorilla-llm/gorilla-cli
 
