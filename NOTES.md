@@ -59,6 +59,21 @@ Retrieval Augmentation Generation(RAG)(检索，增强，生成)
 
 > https://attack.mitre.org/
 
+> https://owasp.org/www-project-top-10-for-large-language-model-applications/
+
+> https://sec.cloudapps.cisco.com/security/center/resources/securing-vector-databases
+
+
+> SOAR
+
+> https://github.com/OpenInterpreter/open-interpreter
+
+> EPSS
+> https://www.first.org/epss/
+
+> UEPA
+
+
 
 
 
