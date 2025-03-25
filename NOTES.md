@@ -76,4 +76,31 @@ Retrieval Augmentation Generation(RAG)(检索，增强，生成)
 
 
 
+## Using AI for software Development
+
+### Explaining Existing Code
+
+
++ Cursor
++ Github Compilot
++ Cody
++ claude
+
+### CodeX Model
+
+> https://openai.com/index/openai-codex/
+
+
+### Prompt Engineering for Software Development
+
+```
+Write a Python script that scans a given network range for open ports using TCP. The script should accept a range of ip addresses as input, perform a scan on ports 20-1024, and output the IP addresses with theire corresponding open ports. include error handling for invalid IP ranges and ensure the script runs efficiently, using threading to speed up the scanning process.
+
+```
+
+
+
+
+
+
 
