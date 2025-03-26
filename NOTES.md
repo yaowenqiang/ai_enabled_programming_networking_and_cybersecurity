@@ -99,6 +99,13 @@ Write a Python script that scans a given network range for open ports using TCP.
 ```
 
 
+## Using AI for Networking
+
+> https://developer.cisco.com/pyats/
+> https://www.eraser.io/
+
+> Cisco VAPIC
+
 
 
 
